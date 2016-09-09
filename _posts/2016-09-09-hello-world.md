@@ -1,5 +1,6 @@
 ---
 title: "Hello, World!"
+excerpt: "For a long time, there was Pascal."
 ---
 
 {% highlight pascal %}
