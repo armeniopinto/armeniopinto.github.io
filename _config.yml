@@ -12,7 +12,7 @@ logo                     : "320x200.png"
 title_separator          : "-"
 name                     : "Arménio Pinto"
 description              : "Personal tech snippets."
-url                      : "https://armeniopinto.github.io"
+url                      : ""
 baseurl                  :
 repository               : "armeniopinto/armeniopinto.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -228,3 +228,12 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+# Front Matter defaults
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "single"
