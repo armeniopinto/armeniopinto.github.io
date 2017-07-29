@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en"
 title                    : "320x200"
-logo                     : "320x200.png"
+logo                     : "assets/images/320x200.png"
 title_separator          : "-"
 name                     : "Arménio Pinto"
 description              : "Personal tech snippets."
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Arménio Pinto"
-  avatar           : "avatar.png"
+  avatar           : "assets/images/avatar.png"
   bio              : "Personal tech snippets from a nostalgic programmer."
   location         : "Exeter, UK"
   email            : "armenio@armeniopinto.com"
